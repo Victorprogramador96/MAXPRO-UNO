@@ -1,0 +1,265 @@
+[
+    {
+        "id": "suplemento-01",
+        "titulo": "Max Caffeine",
+        "imagen": "./img/suplementos/01.png", 
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 380000
+    },
+    {
+        "id": "suplemento-02",
+        "titulo": "Max Creatine",
+        "imagen": "./img/suplementos/02.png",
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "suplemento-03",
+        "titulo": "Max Crecer",
+        "imagen": "./img/suplementos/03.png",
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 480000
+    },
+    {
+        "id": "suplemento-04",
+        "titulo": "Max Inttensive",
+        "imagen": "./img/suplementos/04.png",
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 560000
+    },
+    {
+        "id": "suplemento-05",
+        "titulo": "Max Ultra",
+        "imagen": "./img/suplementos/05.png",
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 800000
+    },
+    {
+        "id": "suplemento-06",
+        "titulo": "Max Prottein",
+        "imagen": "./img/suplementos/06.png",
+        "categoria": {
+            "nombre": "Suplemento Max",
+            "id": "suplementos"
+        },
+        "precio": 653000
+    },
+    {
+        "id": "bebida-01",
+        "titulo": "Bebida Max 1",
+        "imagen": "./img/bebidas/01.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "bebida-02",
+        "titulo": "Bebida UltraMax 2",
+        "imagen": "./img/bebidas/02.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "bebida-03",
+        "titulo": "Bebida MegaMax 3",
+        "imagen": "./img/bebidas/03.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "bebida-04",
+        "titulo": "Bebida CaffeineMax 4",
+        "imagen": "./img/bebidas/04.jpeg",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "bebida-05",
+        "titulo": "Bebida EnergyMax 5",
+        "imagen": "./img/bebidas/05.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "bebida-06",
+        "titulo": "Bebida SpartanMax 6",
+        "imagen": "./img/bebidas/06.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "bebida-07",
+        "titulo": "Bebida SuperMax 7",
+        "imagen": "./img/bebidas/07.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 26000
+    },
+    {
+        "id": "bebida-08",
+        "titulo": "Bebida AtomicMax 8",
+        "imagen": "./img/bebidas/08.png",
+        "categoria": {
+            "nombre": "Bebidas Max",
+            "id": "bebidas"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Camiseta 01",
+        "imagen": "./img/accesorios/01.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "Accesorios Max"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Camiseta 02",
+        "imagen": "./img/accesorios/02.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Camiseta 03",
+        "imagen": "./img/accesorios/03.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "camiseta 04",
+        "imagen": "./img/accesorios/04.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "accesorio-05",
+        "titulo": "Jean 01",
+        "imagen": "./img/accesorios/05.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "accesorio-06",
+        "titulo": "jean 02",
+        "imagen": "./img/accesorios/06.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "accesorio-07",
+        "titulo": "Reloj 01",
+        "imagen": "./img/accesorios/07.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 195000
+    },
+    {
+        "id": "accesorio-08",
+        "titulo": "Reloj 02",
+        "imagen": "./img/accesorios/08.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 210000
+    },
+    {
+        "id": "accesorio-09",
+        "titulo": "Reloj 03",
+        "imagen": "./img/accesorios/09.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 230000
+    },
+    {
+        "id": "accesorio-10",
+        "titulo": "Zapatilla 01",
+        "imagen": "./img/accesorios/10.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 230000
+    },
+    {
+        "id": "accesorio-11",
+        "titulo": "zapatilla 02",
+        "imagen": "./img/accesorios/11.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 235000
+    },
+    {
+        "id": "accesorio-12",
+        "titulo": "Zapatilla 03",
+        "imagen": "./img/accesorios/12.png",
+        "categoria": {
+            "nombre": "Accesorios Max",
+            "id": "accesorios"
+        },
+        "precio": 320000
+    }
+    
+
+
+]
